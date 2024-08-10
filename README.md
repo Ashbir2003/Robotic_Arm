@@ -1,4 +1,4 @@
-# PICK AND PLACE ROBOTIC ARM 🤖
+## PICK AND PLACE ROBOTIC ARM 🤖
 
 To design and implement WiFi controlled pick and place robotic arm used in 
 industrial purpose that can operate manually by a phone application. The system 
